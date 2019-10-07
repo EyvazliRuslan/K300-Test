@@ -1,0 +1,176 @@
+.col-md-1{ 
+    width: 8%;
+}
+.col-md-2{
+    width: 16%;
+}
+.col-md-3{
+    width: 24%;
+}
+.col-md-4{
+    width: 33%
+}
+.col-md-5{
+    width: 42%;
+}
+.col-md-6{
+    width: 50%;
+}
+.col-md-7{
+    width: 58%;
+
+}
+.col-md-8{
+    width: 67%;
+
+}
+.col-md-9{
+    width: 76%;
+
+}
+.col-md-10{
+    width: 84%;
+    
+}
+.col-md-11{
+    width: 92%;
+
+}
+.col-md-12{
+    width: 100%;
+}
+
+@media (max-width:768px){
+    .pt-sm-4{
+        padding-top: 4rem;
+    }
+    .col-sm-1{ 
+        width: 8%;
+    }
+    .col-sm-2{
+        width: 16%;
+    }
+    .col-sm-3{
+        width: 24%;
+    }
+    .col-sm-4{
+        width: 33%
+    }
+    .col-sm-5{
+        width: 42%;
+    }
+    .col-sm-6{
+        width: 50%;
+    }
+    .col-sm-7{
+        width: 58%;
+    
+    }
+    .col-sm-8{
+        width: 67%;
+    
+    }
+    .col-sm-9{
+        width: 76%;
+    
+    }
+    .col-sm-10{
+        width: 84%;
+        
+    }
+    .col-sm-11{
+        width: 92%;
+    
+    }
+    .col-sm-12{
+        width: 100% !important;
+    }
+}
+@media (max-width:576px){
+    .col-1{ 
+        width: 8%;
+    }
+    .col-2{
+        width: 16%;
+    }
+    .col-3{
+        width: 24%;
+    }
+    .col-4{
+        width: 33%
+    }
+    .col-5{
+        width: 42%;
+    }
+    .col-6{
+        width: 50%;
+    }
+    .col-7{
+        width: 58%;
+    
+    }
+    .col-8{
+        width: 67%;
+    
+    }
+    .col-9{
+        width: 76%;
+    
+    }
+    .col-10{
+        width: 84%;
+        
+    }
+    .col-11{
+        width: 92%;
+    
+    }
+    .col-12{
+        width: 100% !important;
+    }
+}
+ .text-center{
+     text-align: center;
+ }
+ .m-auto{
+     margin:0 auto;
+ }
+ .p-2{
+     padding: 2rem;
+ }
+ .pt-4{
+     padding-top: 4rem;
+ }
+ .l-h{
+    line-height: 1.6
+ }
+ .l-s{
+     letter-spacing:  5px;
+ }
+ .img-fluid{
+     width: 100%;
+     height: 100%;
+     
+ }
+ .justify-content-between{
+    justify-content: space-between;
+ }
+ .justify-content-evenly{
+     justify-content: space-evenly;
+ }
+ .c-gray{
+     color: #525c66;
+ }
+ .container{
+     width: 80%;
+     margin: auto;
+ }
+ .row{
+     display: flex;
+     flex-wrap: wrap;
+
+ }
+.wid{
+    width: 48%;
+}
+

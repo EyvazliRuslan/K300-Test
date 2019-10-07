@@ -1,0 +1,36 @@
+
+.wid .wid:nth-child(3){
+    padding-top:20px;
+}
+.wid .wid:nth-child(4){
+    padding-top:20px;
+}
+
+.img-holder .wid:hover img{
+    transform: scale(1.065);
+}
+.img-holder .wid{
+    overflow:hidden;
+}
+.img-holder .wid img{
+    transition: transform .3s ease-in-out;
+}
+.img-holder .wid{
+    position: relative;
+}
+.overlay{
+    position: absolute;
+    top: 0%;
+    left: 0;
+    right: 0;
+    bottom: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    transition:  background .3s linear;
+}
+.img-holder .wid:hover .overlay{
+ background: blue;
+ opacity: .7;
+}
